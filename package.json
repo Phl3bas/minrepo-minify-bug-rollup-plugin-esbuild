@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.9",
+    "rollup-plugin-esbuild": "^4.10.1"
+  },
+  "dependencies": {
+    "rollup": "^2.79.1"
+  }
+}

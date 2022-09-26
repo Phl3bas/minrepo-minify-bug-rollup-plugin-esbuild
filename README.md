@@ -1,0 +1,1 @@
+min repo for minify bug, example working with rollup and esbuild/rollup-plugin-esbuild
